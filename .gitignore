@@ -1,0 +1,9 @@
+*.keys
+tools/.venv/
+tools/voices/
+tools/deps/
+tools/.voice_cache.json
+build_pc/
+build/
+kk_*.txt
+*.nsp

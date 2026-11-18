@@ -1,0 +1,860 @@
+title	0	Koffer Koorts!	Case Fever!
+title	1	Welkom bij Koffer Koorts!	Welcome to Case Fever!
+title	2	Daar is de show weer! Koffer Koorts!	The show is back! Case Fever!
+welcome	0	Goedenavond, goedenavond! Welkom bij Koffer Koorts, de show waar één koffer je leven kan veranderen!	Good evening, good evening! Welcome to Case Fever, the show where one case can change your life!
+welcome	1	Daar ben je eindelijk! Het publiek zit klaar, de bankier zit klaar, en de koffers staan te glimmen. Welkom!	There you are at last! The audience is ready, the banker is ready, and the cases are gleaming. Welcome!
+welcome	2	Welkom, welkom! Vanavond staat er één miljoen euro op het spel. Ben je er klaar voor?	Welcome, welcome! Tonight there is one million euros at stake. Are you ready?
+welcome	3	Dames en heren, applaus voor onze kandidaat! Welkom bij Koffer Koorts!	Ladies and gentlemen, give it up for our contestant! Welcome to Case Fever!
+welcome	4	Goedenavond! Ik heb er zin in, het publiek heeft er zin in, en de bankier... die heeft vooral zin in jouw geld. Welkom!	Good evening! I'm excited, the audience is excited, and the banker... well, the banker is mostly excited about your money. Welcome!
+welcome	5	Welkom bij Koffer Koorts! Zesentwintig koffers, één bankier, en jij. Laten we beginnen!	Welcome to Case Fever! Twenty six cases, one banker, and you. Let's get started!
+rules1	0	Het is heel simpel. Er staan zesentwintig koffers, en in elke koffer zit een geldbedrag. Van één cent, tot één miljoen euro.	It's very simple. There are twenty six cases, and each case holds an amount of money. From one cent, all the way up to one million euros.
+rules2	0	Eerst kies je één koffer voor jezelf. Die blijft dicht, tot het allerlaatste moment.	First you choose one case for yourself. It stays closed until the very end.
+rules3	0	Daarna open je steeds andere koffers. Zit er een laag bedrag in? Mooi! Dan zit dat niet in jouw koffer.	Then you open the other cases, one by one. A low amount inside? Great! That means it's not in your case.
+rules4	0	Na elke ronde belt de bankier met een bod. Pak je het geld, of speel je door? Jij beslist!	After every round the banker calls with an offer. Do you take the money, or do you play on? You decide!
+rules5	0	Wijs met je controller naar het scherm, of gebruik de joystick. Druk op de trekker om te kiezen. Met L of R zet je de aanwijzer terug in het midden.	Point your controller at the screen, or use the stick. Pull the trigger to choose. Press L or R to bring the pointer back to the middle.
+menu_hint	0	Kies maar wat je wilt doen.	Go ahead and choose what you want to do.
+menu_hint	1	Solo spelen, of met z'n allen? Kies maar!	Play solo, or all together? Your choice!
+settings	0	Hier kun je alles instellen zoals jij het wilt.	Here you can set everything up just the way you like it.
+lang_set	0	Ik spreek vanaf nu Nederlands.	From now on I'll speak English.
+pick_own	0	Welke koffer wordt de jouwe? Kies maar!	Which case will be yours? Go ahead and pick!
+pick_own	1	Kies een koffer die je mee naar huis wilt nemen. Volg je gevoel!	Pick a case you'd like to take home. Trust your gut!
+pick_own	2	Zesentwintig koffers, maar er is er maar één van jou. Welke wordt het?	Twenty six cases, but only one of them is yours. Which will it be?
+pick_own	3	Neem je tijd. Welke koffer roept jouw naam?	Take your time. Which case is calling your name?
+pick_own	4	Tijd om je eigen koffer te kiezen. Geluksnummer, iemand?	Time to choose your own case. Lucky number, anyone?
+own_1	0	Koffer één! Een prima keuze.	Case one! A fine choice.
+own_1	1	Je gaat voor koffer één. Ik hoop dat er iets moois in zit!	You're going with case one. I hope there's something nice inside!
+own_1	2	Koffer nummer één is van jou. Pas er goed op!	Case number one is yours. Take good care of it!
+own_2	0	Koffer twee! Een prima keuze.	Case two! A fine choice.
+own_2	1	Je gaat voor koffer twee. Ik hoop dat er iets moois in zit!	You're going with case two. I hope there's something nice inside!
+own_2	2	Koffer nummer twee is van jou. Pas er goed op!	Case number two is yours. Take good care of it!
+own_3	0	Koffer drie! Een prima keuze.	Case three! A fine choice.
+own_3	1	Je gaat voor koffer drie. Ik hoop dat er iets moois in zit!	You're going with case three. I hope there's something nice inside!
+own_3	2	Koffer nummer drie is van jou. Pas er goed op!	Case number three is yours. Take good care of it!
+own_4	0	Koffer vier! Een prima keuze.	Case four! A fine choice.
+own_4	1	Je gaat voor koffer vier. Ik hoop dat er iets moois in zit!	You're going with case four. I hope there's something nice inside!
+own_4	2	Koffer nummer vier is van jou. Pas er goed op!	Case number four is yours. Take good care of it!
+own_5	0	Koffer vijf! Een prima keuze.	Case five! A fine choice.
+own_5	1	Je gaat voor koffer vijf. Ik hoop dat er iets moois in zit!	You're going with case five. I hope there's something nice inside!
+own_5	2	Koffer nummer vijf is van jou. Pas er goed op!	Case number five is yours. Take good care of it!
+own_6	0	Koffer zes! Een prima keuze.	Case six! A fine choice.
+own_6	1	Je gaat voor koffer zes. Ik hoop dat er iets moois in zit!	You're going with case six. I hope there's something nice inside!
+own_6	2	Koffer nummer zes is van jou. Pas er goed op!	Case number six is yours. Take good care of it!
+own_7	0	Koffer zeven! Een prima keuze.	Case seven! A fine choice.
+own_7	1	Je gaat voor koffer zeven. Ik hoop dat er iets moois in zit!	You're going with case seven. I hope there's something nice inside!
+own_7	2	Koffer nummer zeven is van jou. Pas er goed op!	Case number seven is yours. Take good care of it!
+own_8	0	Koffer acht! Een prima keuze.	Case eight! A fine choice.
+own_8	1	Je gaat voor koffer acht. Ik hoop dat er iets moois in zit!	You're going with case eight. I hope there's something nice inside!
+own_8	2	Koffer nummer acht is van jou. Pas er goed op!	Case number eight is yours. Take good care of it!
+own_9	0	Koffer negen! Een prima keuze.	Case nine! A fine choice.
+own_9	1	Je gaat voor koffer negen. Ik hoop dat er iets moois in zit!	You're going with case nine. I hope there's something nice inside!
+own_9	2	Koffer nummer negen is van jou. Pas er goed op!	Case number nine is yours. Take good care of it!
+own_10	0	Koffer tien! Een prima keuze.	Case ten! A fine choice.
+own_10	1	Je gaat voor koffer tien. Ik hoop dat er iets moois in zit!	You're going with case ten. I hope there's something nice inside!
+own_10	2	Koffer nummer tien is van jou. Pas er goed op!	Case number ten is yours. Take good care of it!
+own_11	0	Koffer elf! Een prima keuze.	Case eleven! A fine choice.
+own_11	1	Je gaat voor koffer elf. Ik hoop dat er iets moois in zit!	You're going with case eleven. I hope there's something nice inside!
+own_11	2	Koffer nummer elf is van jou. Pas er goed op!	Case number eleven is yours. Take good care of it!
+own_12	0	Koffer twaalf! Een prima keuze.	Case twelve! A fine choice.
+own_12	1	Je gaat voor koffer twaalf. Ik hoop dat er iets moois in zit!	You're going with case twelve. I hope there's something nice inside!
+own_12	2	Koffer nummer twaalf is van jou. Pas er goed op!	Case number twelve is yours. Take good care of it!
+own_13	0	Koffer dertien! Een prima keuze.	Case thirteen! A fine choice.
+own_13	1	Je gaat voor koffer dertien. Ik hoop dat er iets moois in zit!	You're going with case thirteen. I hope there's something nice inside!
+own_13	2	Koffer nummer dertien is van jou. Pas er goed op!	Case number thirteen is yours. Take good care of it!
+own_14	0	Koffer veertien! Een prima keuze.	Case fourteen! A fine choice.
+own_14	1	Je gaat voor koffer veertien. Ik hoop dat er iets moois in zit!	You're going with case fourteen. I hope there's something nice inside!
+own_14	2	Koffer nummer veertien is van jou. Pas er goed op!	Case number fourteen is yours. Take good care of it!
+own_15	0	Koffer vijftien! Een prima keuze.	Case fifteen! A fine choice.
+own_15	1	Je gaat voor koffer vijftien. Ik hoop dat er iets moois in zit!	You're going with case fifteen. I hope there's something nice inside!
+own_15	2	Koffer nummer vijftien is van jou. Pas er goed op!	Case number fifteen is yours. Take good care of it!
+own_16	0	Koffer zestien! Een prima keuze.	Case sixteen! A fine choice.
+own_16	1	Je gaat voor koffer zestien. Ik hoop dat er iets moois in zit!	You're going with case sixteen. I hope there's something nice inside!
+own_16	2	Koffer nummer zestien is van jou. Pas er goed op!	Case number sixteen is yours. Take good care of it!
+own_17	0	Koffer zeventien! Een prima keuze.	Case seventeen! A fine choice.
+own_17	1	Je gaat voor koffer zeventien. Ik hoop dat er iets moois in zit!	You're going with case seventeen. I hope there's something nice inside!
+own_17	2	Koffer nummer zeventien is van jou. Pas er goed op!	Case number seventeen is yours. Take good care of it!
+own_18	0	Koffer achttien! Een prima keuze.	Case eighteen! A fine choice.
+own_18	1	Je gaat voor koffer achttien. Ik hoop dat er iets moois in zit!	You're going with case eighteen. I hope there's something nice inside!
+own_18	2	Koffer nummer achttien is van jou. Pas er goed op!	Case number eighteen is yours. Take good care of it!
+own_19	0	Koffer negentien! Een prima keuze.	Case nineteen! A fine choice.
+own_19	1	Je gaat voor koffer negentien. Ik hoop dat er iets moois in zit!	You're going with case nineteen. I hope there's something nice inside!
+own_19	2	Koffer nummer negentien is van jou. Pas er goed op!	Case number nineteen is yours. Take good care of it!
+own_20	0	Koffer twintig! Een prima keuze.	Case twenty! A fine choice.
+own_20	1	Je gaat voor koffer twintig. Ik hoop dat er iets moois in zit!	You're going with case twenty. I hope there's something nice inside!
+own_20	2	Koffer nummer twintig is van jou. Pas er goed op!	Case number twenty is yours. Take good care of it!
+own_21	0	Koffer eenentwintig! Een prima keuze.	Case twenty-one! A fine choice.
+own_21	1	Je gaat voor koffer eenentwintig. Ik hoop dat er iets moois in zit!	You're going with case twenty-one. I hope there's something nice inside!
+own_21	2	Koffer nummer eenentwintig is van jou. Pas er goed op!	Case number twenty-one is yours. Take good care of it!
+own_22	0	Koffer tweeëntwintig! Een prima keuze.	Case twenty-two! A fine choice.
+own_22	1	Je gaat voor koffer tweeëntwintig. Ik hoop dat er iets moois in zit!	You're going with case twenty-two. I hope there's something nice inside!
+own_22	2	Koffer nummer tweeëntwintig is van jou. Pas er goed op!	Case number twenty-two is yours. Take good care of it!
+own_23	0	Koffer drieëntwintig! Een prima keuze.	Case twenty-three! A fine choice.
+own_23	1	Je gaat voor koffer drieëntwintig. Ik hoop dat er iets moois in zit!	You're going with case twenty-three. I hope there's something nice inside!
+own_23	2	Koffer nummer drieëntwintig is van jou. Pas er goed op!	Case number twenty-three is yours. Take good care of it!
+own_24	0	Koffer vierentwintig! Een prima keuze.	Case twenty-four! A fine choice.
+own_24	1	Je gaat voor koffer vierentwintig. Ik hoop dat er iets moois in zit!	You're going with case twenty-four. I hope there's something nice inside!
+own_24	2	Koffer nummer vierentwintig is van jou. Pas er goed op!	Case number twenty-four is yours. Take good care of it!
+own_25	0	Koffer vijfentwintig! Een prima keuze.	Case twenty-five! A fine choice.
+own_25	1	Je gaat voor koffer vijfentwintig. Ik hoop dat er iets moois in zit!	You're going with case twenty-five. I hope there's something nice inside!
+own_25	2	Koffer nummer vijfentwintig is van jou. Pas er goed op!	Case number twenty-five is yours. Take good care of it!
+own_26	0	Koffer zesentwintig! Een prima keuze.	Case twenty-six! A fine choice.
+own_26	1	Je gaat voor koffer zesentwintig. Ik hoop dat er iets moois in zit!	You're going with case twenty-six. I hope there's something nice inside!
+own_26	2	Koffer nummer zesentwintig is van jou. Pas er goed op!	Case number twenty-six is yours. Take good care of it!
+open_1	0	Koffer één, open maar!	Case one, open up!
+open_1	1	We openen koffer één.	Let's open case one.
+open_1	2	Koffer één... laat maar zien wat je hebt!	Case one... show us what you've got!
+open_1	3	Oké, koffer één. Spannend!	Okay, case one. Exciting!
+open_2	0	Koffer twee, open maar!	Case two, open up!
+open_2	1	We openen koffer twee.	Let's open case two.
+open_2	2	Koffer twee... laat maar zien wat je hebt!	Case two... show us what you've got!
+open_2	3	Oké, koffer twee. Spannend!	Okay, case two. Exciting!
+open_3	0	Koffer drie, open maar!	Case three, open up!
+open_3	1	We openen koffer drie.	Let's open case three.
+open_3	2	Koffer drie... laat maar zien wat je hebt!	Case three... show us what you've got!
+open_3	3	Oké, koffer drie. Spannend!	Okay, case three. Exciting!
+open_4	0	Koffer vier, open maar!	Case four, open up!
+open_4	1	We openen koffer vier.	Let's open case four.
+open_4	2	Koffer vier... laat maar zien wat je hebt!	Case four... show us what you've got!
+open_4	3	Oké, koffer vier. Spannend!	Okay, case four. Exciting!
+open_5	0	Koffer vijf, open maar!	Case five, open up!
+open_5	1	We openen koffer vijf.	Let's open case five.
+open_5	2	Koffer vijf... laat maar zien wat je hebt!	Case five... show us what you've got!
+open_5	3	Oké, koffer vijf. Spannend!	Okay, case five. Exciting!
+open_6	0	Koffer zes, open maar!	Case six, open up!
+open_6	1	We openen koffer zes.	Let's open case six.
+open_6	2	Koffer zes... laat maar zien wat je hebt!	Case six... show us what you've got!
+open_6	3	Oké, koffer zes. Spannend!	Okay, case six. Exciting!
+open_7	0	Koffer zeven, open maar!	Case seven, open up!
+open_7	1	We openen koffer zeven.	Let's open case seven.
+open_7	2	Koffer zeven... laat maar zien wat je hebt!	Case seven... show us what you've got!
+open_7	3	Oké, koffer zeven. Spannend!	Okay, case seven. Exciting!
+open_8	0	Koffer acht, open maar!	Case eight, open up!
+open_8	1	We openen koffer acht.	Let's open case eight.
+open_8	2	Koffer acht... laat maar zien wat je hebt!	Case eight... show us what you've got!
+open_8	3	Oké, koffer acht. Spannend!	Okay, case eight. Exciting!
+open_9	0	Koffer negen, open maar!	Case nine, open up!
+open_9	1	We openen koffer negen.	Let's open case nine.
+open_9	2	Koffer negen... laat maar zien wat je hebt!	Case nine... show us what you've got!
+open_9	3	Oké, koffer negen. Spannend!	Okay, case nine. Exciting!
+open_10	0	Koffer tien, open maar!	Case ten, open up!
+open_10	1	We openen koffer tien.	Let's open case ten.
+open_10	2	Koffer tien... laat maar zien wat je hebt!	Case ten... show us what you've got!
+open_10	3	Oké, koffer tien. Spannend!	Okay, case ten. Exciting!
+open_11	0	Koffer elf, open maar!	Case eleven, open up!
+open_11	1	We openen koffer elf.	Let's open case eleven.
+open_11	2	Koffer elf... laat maar zien wat je hebt!	Case eleven... show us what you've got!
+open_11	3	Oké, koffer elf. Spannend!	Okay, case eleven. Exciting!
+open_12	0	Koffer twaalf, open maar!	Case twelve, open up!
+open_12	1	We openen koffer twaalf.	Let's open case twelve.
+open_12	2	Koffer twaalf... laat maar zien wat je hebt!	Case twelve... show us what you've got!
+open_12	3	Oké, koffer twaalf. Spannend!	Okay, case twelve. Exciting!
+open_13	0	Koffer dertien, open maar!	Case thirteen, open up!
+open_13	1	We openen koffer dertien.	Let's open case thirteen.
+open_13	2	Koffer dertien... laat maar zien wat je hebt!	Case thirteen... show us what you've got!
+open_13	3	Oké, koffer dertien. Spannend!	Okay, case thirteen. Exciting!
+open_14	0	Koffer veertien, open maar!	Case fourteen, open up!
+open_14	1	We openen koffer veertien.	Let's open case fourteen.
+open_14	2	Koffer veertien... laat maar zien wat je hebt!	Case fourteen... show us what you've got!
+open_14	3	Oké, koffer veertien. Spannend!	Okay, case fourteen. Exciting!
+open_15	0	Koffer vijftien, open maar!	Case fifteen, open up!
+open_15	1	We openen koffer vijftien.	Let's open case fifteen.
+open_15	2	Koffer vijftien... laat maar zien wat je hebt!	Case fifteen... show us what you've got!
+open_15	3	Oké, koffer vijftien. Spannend!	Okay, case fifteen. Exciting!
+open_16	0	Koffer zestien, open maar!	Case sixteen, open up!
+open_16	1	We openen koffer zestien.	Let's open case sixteen.
+open_16	2	Koffer zestien... laat maar zien wat je hebt!	Case sixteen... show us what you've got!
+open_16	3	Oké, koffer zestien. Spannend!	Okay, case sixteen. Exciting!
+open_17	0	Koffer zeventien, open maar!	Case seventeen, open up!
+open_17	1	We openen koffer zeventien.	Let's open case seventeen.
+open_17	2	Koffer zeventien... laat maar zien wat je hebt!	Case seventeen... show us what you've got!
+open_17	3	Oké, koffer zeventien. Spannend!	Okay, case seventeen. Exciting!
+open_18	0	Koffer achttien, open maar!	Case eighteen, open up!
+open_18	1	We openen koffer achttien.	Let's open case eighteen.
+open_18	2	Koffer achttien... laat maar zien wat je hebt!	Case eighteen... show us what you've got!
+open_18	3	Oké, koffer achttien. Spannend!	Okay, case eighteen. Exciting!
+open_19	0	Koffer negentien, open maar!	Case nineteen, open up!
+open_19	1	We openen koffer negentien.	Let's open case nineteen.
+open_19	2	Koffer negentien... laat maar zien wat je hebt!	Case nineteen... show us what you've got!
+open_19	3	Oké, koffer negentien. Spannend!	Okay, case nineteen. Exciting!
+open_20	0	Koffer twintig, open maar!	Case twenty, open up!
+open_20	1	We openen koffer twintig.	Let's open case twenty.
+open_20	2	Koffer twintig... laat maar zien wat je hebt!	Case twenty... show us what you've got!
+open_20	3	Oké, koffer twintig. Spannend!	Okay, case twenty. Exciting!
+open_21	0	Koffer eenentwintig, open maar!	Case twenty-one, open up!
+open_21	1	We openen koffer eenentwintig.	Let's open case twenty-one.
+open_21	2	Koffer eenentwintig... laat maar zien wat je hebt!	Case twenty-one... show us what you've got!
+open_21	3	Oké, koffer eenentwintig. Spannend!	Okay, case twenty-one. Exciting!
+open_22	0	Koffer tweeëntwintig, open maar!	Case twenty-two, open up!
+open_22	1	We openen koffer tweeëntwintig.	Let's open case twenty-two.
+open_22	2	Koffer tweeëntwintig... laat maar zien wat je hebt!	Case twenty-two... show us what you've got!
+open_22	3	Oké, koffer tweeëntwintig. Spannend!	Okay, case twenty-two. Exciting!
+open_23	0	Koffer drieëntwintig, open maar!	Case twenty-three, open up!
+open_23	1	We openen koffer drieëntwintig.	Let's open case twenty-three.
+open_23	2	Koffer drieëntwintig... laat maar zien wat je hebt!	Case twenty-three... show us what you've got!
+open_23	3	Oké, koffer drieëntwintig. Spannend!	Okay, case twenty-three. Exciting!
+open_24	0	Koffer vierentwintig, open maar!	Case twenty-four, open up!
+open_24	1	We openen koffer vierentwintig.	Let's open case twenty-four.
+open_24	2	Koffer vierentwintig... laat maar zien wat je hebt!	Case twenty-four... show us what you've got!
+open_24	3	Oké, koffer vierentwintig. Spannend!	Okay, case twenty-four. Exciting!
+open_25	0	Koffer vijfentwintig, open maar!	Case twenty-five, open up!
+open_25	1	We openen koffer vijfentwintig.	Let's open case twenty-five.
+open_25	2	Koffer vijfentwintig... laat maar zien wat je hebt!	Case twenty-five... show us what you've got!
+open_25	3	Oké, koffer vijfentwintig. Spannend!	Okay, case twenty-five. Exciting!
+open_26	0	Koffer zesentwintig, open maar!	Case twenty-six, open up!
+open_26	1	We openen koffer zesentwintig.	Let's open case twenty-six.
+open_26	2	Koffer zesentwintig... laat maar zien wat je hebt!	Case twenty-six... show us what you've got!
+open_26	3	Oké, koffer zesentwintig. Spannend!	Okay, case twenty-six. Exciting!
+round_1	0	Deze ronde open je maar één koffer.	This round you only open one case.
+round_1	1	Eén koffer deze ronde. Maak hem goed!	Just one case this round. Make it count!
+round_2	0	Deze ronde open je twee koffers.	This round you open two cases.
+round_2	1	Ronde begint! Kies twee koffers om te openen.	New round! Pick two cases to open.
+round_3	0	Deze ronde open je drie koffers.	This round you open three cases.
+round_3	1	Ronde begint! Kies drie koffers om te openen.	New round! Pick three cases to open.
+round_4	0	Deze ronde open je vier koffers.	This round you open four cases.
+round_4	1	Ronde begint! Kies vier koffers om te openen.	New round! Pick four cases to open.
+round_5	0	Deze ronde open je vijf koffers.	This round you open five cases.
+round_5	1	Ronde begint! Kies vijf koffers om te openen.	New round! Pick five cases to open.
+round_6	0	Deze ronde open je zes koffers.	This round you open six cases.
+round_6	1	Ronde begint! Kies zes koffers om te openen.	New round! Pick six cases to open.
+left_1	0	Nog één koffer, en dan belt de bankier.	One more case, and then the banker calls.
+left_1	1	Laatste koffer van deze ronde!	Last case of this round!
+left_1	2	Nog eentje. Kies wijs!	Just one more. Choose wisely!
+left_2	0	Nog twee koffers deze ronde.	Two more cases this round.
+left_2	1	Nog twee te gaan.	Two to go.
+left_3	0	Nog drie koffers deze ronde.	Three more cases this round.
+left_3	1	Nog drie te gaan.	Three to go.
+left_4	0	Nog vier koffers deze ronde.	Four more cases this round.
+left_4	1	Nog vier te gaan.	Four to go.
+left_5	0	Nog vijf koffers deze ronde.	Five more cases this round.
+left_5	1	Nog vijf te gaan.	Five to go.
+suspense	0	En daarin zit...	And inside is...
+suspense	1	Het bedrag is...	The amount is...
+suspense	2	Kijk eens aan...	Well, look at that...
+suspense	3	Daar gaat ie...	Here it goes...
+suspense	4	Moment van de waarheid...	Moment of truth...
+suspense	5	Het is...	It's...
+suspense	6	Laten we kijken...	Let's see...
+react_great	0	Fantastisch! Precies wat we wilden zien!	Fantastic! Exactly what we wanted to see!
+react_great	1	Ja! Weg met dat kleine bedrag!	Yes! Good riddance to that small amount!
+react_great	2	Heerlijk! Het publiek gaat helemaal los!	Lovely! The crowd goes wild!
+react_great	3	Wat een opluchting! Prachtig!	What a relief! Beautiful!
+react_great	4	Perfect! De bankier zit nu te zweten.	Perfect! The banker is sweating now.
+react_great	5	Top! Zo wil ik het zien!	Brilliant! That's how I like it!
+react_good	0	Mooi zo, dat valt mee.	Nice, that's not bad at all.
+react_good	1	Prima! Daar kun je mee leven.	Fine! You can live with that.
+react_good	2	Goed gedaan, een klein bedrag minder.	Well done, one small amount gone.
+react_good	3	Dat is een nette opening.	That's a tidy result.
+react_good	4	Helemaal oké. Door!	Totally fine. Onward!
+react_meh	0	Hmm. Niet slecht, niet geweldig.	Hmm. Not bad, not great.
+react_meh	1	Ach, daar valt mee te leven.	Oh well, you can live with that.
+react_meh	2	Een middelmatig bedrag. Het spel blijft spannend.	A middling amount. The game stays exciting.
+react_meh	3	Dat kost je een beetje, maar niet te veel.	That costs you a little, but not too much.
+react_meh	4	Zozo. De bankier glimlacht een klein beetje.	Well well. The banker smiles, just a little.
+react_bad	0	Auw! Dat doet pijn.	Ouch! That hurts.
+react_bad	1	Oei, dat is een flink bedrag.	Oops, that's a big one.
+react_bad	2	Nee hè! Daar ging een mooi bedrag.	Oh no! There goes a nice amount.
+react_bad	3	Het publiek zucht. Jammer!	The audience sighs. What a shame!
+react_bad	4	Dat had ik liever niet gezien.	I'd rather not have seen that.
+react_awful	0	Oh nee! Daar gaat een enorm bedrag!	Oh no! There goes a huge amount!
+react_awful	1	Dat is een klap. Maar het spel is nog niet voorbij!	That's a blow. But the game isn't over yet!
+react_awful	2	Pijnlijk, pijnlijk, pijnlijk!	Painful, painful, painful!
+react_awful	3	Ik hoor de bankier lachen aan de telefoon...	I can hear the banker laughing on the phone...
+react_awful	4	Diep ademhalen. We gaan gewoon door.	Deep breath. We just keep going.
+million_alive	0	De miljoen is nog steeds in het spel!	The million is still in play!
+million_alive	1	En vergeet niet: de miljoen staat er nog!	And don't forget: the million is still out there!
+million_alive	2	Eén miljoen euro, nog steeds te winnen!	One million euros, still up for grabs!
+streak	0	Je bent goed bezig! Al drie lage bedragen op rij!	You're on a roll! Three low amounts in a row!
+streak	1	Wat een reeks! Heb je soms röntgenogen?	What a streak! Do you have X-ray vision or something?
+streak	2	Lekker bezig! Blijf zo doorgaan!	Great going! Keep it up!
+idle	0	Neem gerust de tijd.	Take your time.
+idle	1	Geen haast. Het publiek wacht graag.	No rush. The audience is happy to wait.
+idle	2	Twijfel je? Dat snap ik helemaal.	Having doubts? I completely understand.
+idle	3	Wijs naar een koffer en druk op de trekker.	Point at a case and pull the trigger.
+banker_call	0	De telefoon gaat! De bankier wil iets zeggen.	The phone is ringing! The banker has something to say.
+banker_call	1	Daar is hij weer... de bankier!	Here he is again... the banker!
+banker_call	2	Stilte in de zaal, alsjeblieft. De bankier belt.	Quiet please, everyone. The banker is calling.
+banker_call	3	Ring ring! Ik denk dat ik al weet wie dat is.	Ring ring! I think I already know who that is.
+banker_call	4	Even opnemen. Hallo? Ja... ja... aha... interessant.	Let me pick up. Hello? Yes... yes... aha... interesting.
+banker_call	5	De bankier heeft goed opgelet, en hij heeft een bod voor je.	The banker has been watching closely, and he has an offer for you.
+offer_pre	0	De bankier biedt je...	The banker offers you...
+offer_pre	1	Het bod is...	The offer is...
+offer_pre	2	Hij zegt... en ik citeer...	He says... and I quote...
+offer_pre	3	Op tafel ligt...	On the table is...
+offer_pre	4	De bankier wil je geven...	The banker wants to give you...
+offer_low	0	Dat is een gierig bod, als je het mij vraagt.	That's a stingy offer, if you ask me.
+offer_low	1	Hmm, de bankier probeert je een beetje af te schepen.	Hmm, the banker is trying to fob you off.
+offer_low	2	Niet bepaald gul, die bankier.	Not exactly generous, that banker.
+offer_fair	0	Dat is eerlijk gezegd een behoorlijk bod.	Honestly, that's a decent offer.
+offer_fair	1	Een redelijk bod. Moeilijk, hè?	A reasonable offer. Tough, isn't it?
+offer_fair	2	Daar kun je toch leuke dingen van doen.	You could do some nice things with that.
+offer_high	0	Wauw! De bankier is gul vanavond!	Wow! The banker is feeling generous tonight!
+offer_high	1	Dat is een heel mooi bod. Echt waar.	That's a really nice offer. Truly.
+offer_high	2	Zo! Daar moet je wel even over nadenken.	Whoa! You'll want to think about that one.
+offer_q	0	Neem je het bod aan, of speel je door?	Do you take the offer, or play on?
+offer_q	1	Wat wordt het? Geld pakken, of doorgaan?	What will it be? Grab the money, or keep going?
+offer_q	2	Jij bent aan zet. Aannemen, of doorspelen?	Your move. Take it, or play on?
+offer_q	3	De vraag van de avond: pak je het geld?	The question of the night: do you take the money?
+offer_q	4	Het publiek houdt de adem in. Wat doe je?	The audience holds its breath. What will you do?
+take	0	Je neemt het bod aan! Gefeliciteerd!	You take the offer! Congratulations!
+take	1	Het geld is van jou! Applaus!	The money is yours! Applause!
+take	2	Deal gesloten! Je gaat met een mooi bedrag naar huis.	It's a deal! You're going home with a nice sum.
+take	3	Verstandig! Geld in de hand is nooit in de koffer.	Sensible! Money in your hand beats money in a case.
+take	4	Handtekening gezet! De bankier hangt op.	Signed and sealed! The banker hangs up.
+playon	0	Je speelt door! Moedig!	You play on! Brave!
+playon	1	Nee bedankt, meneer de bankier! We gaan verder!	No thank you, mister banker! We carry on!
+playon	2	Het avontuur gaat door!	The adventure continues!
+playon	3	Dapper! Ik hoop dat het goed afloopt.	Bold! I hope it works out.
+playon	4	Weg met dat bod! Op naar de volgende ronde!	Away with that offer! On to the next round!
+playon	5	Jij durft! Het publiek is helemaal achter je.	You've got nerve! The audience is right behind you.
+final_intro	0	Nog maar twee koffers over: die van jou, en de laatste op het podium.	Only two cases left: yours, and the last one on the stand.
+final_intro	1	Dit is het. Twee koffers. Twee bedragen. Eén beslissing.	This is it. Two cases. Two amounts. One decision.
+final_intro	2	We zijn bij het laatste moment. Het wordt nu echt spannend.	We've reached the final moment. Now it gets really tense.
+swap_q	0	Wil je je eigen koffer houden, of ruilen met de laatste koffer?	Do you want to keep your own case, or swap it for the last one?
+swap_q	1	Houden of ruilen? Denk goed na!	Keep or swap? Think carefully!
+swap_q	2	Laatste kans: blijf je trouw aan je koffer, of ruil je?	Last chance: do you stay loyal to your case, or do you swap?
+keep	0	Je blijft trouw aan je eigen koffer!	You stay loyal to your own case!
+keep	1	Houden! Je hebt er vertrouwen in.	Keep it! You believe in it.
+keep	2	Je eigen koffer, tot het einde. Mooi!	Your own case, right to the end. Lovely!
+swap	0	Je ruilt! Wat een plotwending!	You swap! What a plot twist!
+swap	1	Ruilen! Durf jij, zeg.	Swap! You've got guts.
+swap	2	Een nieuwe koffer voor jou! Spannend!	A new case for you! Exciting!
+reveal_own	0	En nu het moment van de waarheid. In jouw koffer zat...	And now the moment of truth. Inside your case was...
+reveal_own	1	Laten we je koffer openen. Er zat in...	Let's open your case. Inside was...
+reveal_own	2	Je eigen koffer, al die tijd naast je. Er zat in...	Your own case, right beside you all along. Inside was...
+reveal_own	3	Spanning! Wat zat er in jouw koffer? Het was...	The tension! What was in your case? It was...
+verdict_good	0	Je hebt de bankier verslagen! Wat een goede deal!	You beat the banker! What a great deal!
+verdict_good	1	Slim gespeeld! Je deal was meer waard dan je koffer.	Smartly played! Your deal was worth more than your case.
+verdict_good	2	Perfect getimed! De bankier baalt enorm.	Perfect timing! The banker is gutted.
+verdict_bad	0	Oei, in je koffer zat meer. Maar geld is geld!	Oops, your case held more. But money is money!
+verdict_bad	1	Ach, achteraf is het makkelijk praten. Je gaat toch met geld naar huis!	Ah, hindsight is easy. You're still going home with money!
+verdict_bad	2	De bankier wint deze keer. Maar jij hebt een mooi bedrag!	The banker wins this time. But you've got a nice sum!
+win_big	0	Ongelooflijk! Je gaat naar huis met een fortuin!	Incredible! You're going home with a fortune!
+win_big	1	Wat een avond! Het publiek staat op de stoelen!	What a night! The audience is on their feet!
+win_big	2	Gefeliciteerd! Dit vergeet je nooit meer!	Congratulations! You'll never forget this!
+win_mid	0	Een heel mooi bedrag! Goed gespeeld!	A very nice amount! Well played!
+win_mid	1	Daar kun je een mooie vakantie van boeken!	You can book a lovely holiday with that!
+win_mid	2	Netjes! Je kunt trots zijn.	Nicely done! You can be proud.
+win_small	0	Nou ja, het gaat om de gezelligheid, toch?	Oh well, it's the fun that counts, right?
+win_small	1	Niet het bedrag waar we op hoopten, maar wat een spanning!	Not the amount we hoped for, but what a thrill!
+win_small	2	Volgende keer beter! De koffers wachten op je.	Better luck next time! The cases will be waiting.
+goodbye	0	Bedankt voor het spelen! Tot de volgende keer bij Koffer Koorts!	Thanks for playing! See you next time on Case Fever!
+goodbye	1	Dat was het weer! Dag allemaal!	That's all for now! Goodbye, everyone!
+goodbye	2	Tot ziens, en blijf van die koffers dromen!	Goodbye, and keep dreaming of those cases!
+mp_welcome	0	Welkom bij de feesteditie! Iedereen heeft een eigen controller, en een eigen koffer.	Welcome to the party edition! Everyone gets their own controller, and their own case.
+mp_welcome	1	Het is feest! Meerdere spelers, één bankier. Wie gaat er met het meeste geld naar huis?	It's party time! Several players, one banker. Who goes home with the most money?
+mp_rules	0	Om de beurt open je een koffer. Na elke ronde krijgt iedereen een bod, en kiest iedereen tegelijk, in het geheim. Wie het meeste geld heeft aan het eind, wint!	You take turns opening cases. After every round everyone gets an offer, and everyone decides at the same time, in secret. Whoever has the most money at the end wins!
+mp_pick_1	0	Speler één, kies je eigen koffer.	Player one, pick your own case.
+mp_pick_1	1	Speler één, welke koffer wordt de jouwe?	Player one, which case will be yours?
+mp_turn_1	0	Speler één, jij bent aan de beurt.	Player one, it's your turn.
+mp_turn_1	1	Speler één, kies een koffer om te openen.	Player one, choose a case to open.
+mp_turn_1	2	En nu speler één!	And now, player one!
+mp_offer_1	0	Speler één, jouw bod is...	Player one, your offer is...
+mp_took_1	0	Speler één pakt het geld!	Player one takes the money!
+mp_took_1	1	Speler één sluit een deal!	Player one makes a deal!
+mp_case_1	0	Speler één, in jouw koffer zat...	Player one, inside your case was...
+mp_winner_1	0	Speler één wint het spel! Gefeliciteerd!	Player one wins the game! Congratulations!
+mp_winner_1	1	De winnaar van vanavond is... speler één!	Tonight's winner is... player one!
+mp_pick_2	0	Speler twee, kies je eigen koffer.	Player two, pick your own case.
+mp_pick_2	1	Speler twee, welke koffer wordt de jouwe?	Player two, which case will be yours?
+mp_turn_2	0	Speler twee, jij bent aan de beurt.	Player two, it's your turn.
+mp_turn_2	1	Speler twee, kies een koffer om te openen.	Player two, choose a case to open.
+mp_turn_2	2	En nu speler twee!	And now, player two!
+mp_offer_2	0	Speler twee, jouw bod is...	Player two, your offer is...
+mp_took_2	0	Speler twee pakt het geld!	Player two takes the money!
+mp_took_2	1	Speler twee sluit een deal!	Player two makes a deal!
+mp_case_2	0	Speler twee, in jouw koffer zat...	Player two, inside your case was...
+mp_winner_2	0	Speler twee wint het spel! Gefeliciteerd!	Player two wins the game! Congratulations!
+mp_winner_2	1	De winnaar van vanavond is... speler twee!	Tonight's winner is... player two!
+mp_pick_3	0	Speler drie, kies je eigen koffer.	Player three, pick your own case.
+mp_pick_3	1	Speler drie, welke koffer wordt de jouwe?	Player three, which case will be yours?
+mp_turn_3	0	Speler drie, jij bent aan de beurt.	Player three, it's your turn.
+mp_turn_3	1	Speler drie, kies een koffer om te openen.	Player three, choose a case to open.
+mp_turn_3	2	En nu speler drie!	And now, player three!
+mp_offer_3	0	Speler drie, jouw bod is...	Player three, your offer is...
+mp_took_3	0	Speler drie pakt het geld!	Player three takes the money!
+mp_took_3	1	Speler drie sluit een deal!	Player three makes a deal!
+mp_case_3	0	Speler drie, in jouw koffer zat...	Player three, inside your case was...
+mp_winner_3	0	Speler drie wint het spel! Gefeliciteerd!	Player three wins the game! Congratulations!
+mp_winner_3	1	De winnaar van vanavond is... speler drie!	Tonight's winner is... player three!
+mp_pick_4	0	Speler vier, kies je eigen koffer.	Player four, pick your own case.
+mp_pick_4	1	Speler vier, welke koffer wordt de jouwe?	Player four, which case will be yours?
+mp_turn_4	0	Speler vier, jij bent aan de beurt.	Player four, it's your turn.
+mp_turn_4	1	Speler vier, kies een koffer om te openen.	Player four, choose a case to open.
+mp_turn_4	2	En nu speler vier!	And now, player four!
+mp_offer_4	0	Speler vier, jouw bod is...	Player four, your offer is...
+mp_took_4	0	Speler vier pakt het geld!	Player four takes the money!
+mp_took_4	1	Speler vier sluit een deal!	Player four makes a deal!
+mp_case_4	0	Speler vier, in jouw koffer zat...	Player four, inside your case was...
+mp_winner_4	0	Speler vier wint het spel! Gefeliciteerd!	Player four wins the game! Congratulations!
+mp_winner_4	1	De winnaar van vanavond is... speler vier!	Tonight's winner is... player four!
+mp_offer_all	0	De bankier doet iedereen een bod! Kies allemaal tegelijk, in het geheim.	The banker has an offer for everyone! Everybody choose at the same time, in secret.
+mp_offer_all	1	Biedingen voor iedereen! Wie pakt het geld, en wie speelt door?	Offers for everyone! Who takes the money, and who plays on?
+mp_choose_now	0	Kies nu allemaal: aannemen of doorspelen.	Everyone choose now: take it, or play on.
+mp_choose_now	1	Iedereen, maak je keuze!	Everyone, make your choice!
+mp_reveal_choices	0	Laten we kijken wie er een deal sluit!	Let's see who makes a deal!
+mp_reveal_choices	1	De keuzes zijn binnen. En...	The choices are in. And...
+mp_all_playon	0	Niemand neemt het bod. Jullie zijn dapper!	Nobody takes the offer. You're all so brave!
+mp_all_playon	1	Iedereen speelt door! De bankier is niet blij.	Everyone plays on! The banker is not happy.
+mp_end	0	Alle koffers zijn open. Tijd voor de uitslag!	All the cases are open. Time for the results!
+mp_end	1	Dat was de laatste ronde. Wie heeft er gewonnen?	That was the last round. Who has won?
+mp_tie	0	Het is gelijkspel! Wat een avond!	It's a tie! What a night!
+amt_1	0	€ 0,01	€0.01
+amt_100	0	€ 1	€1
+amt_500	0	€ 5	€5
+amt_1000	0	€ 10	€10
+amt_2500	0	€ 25	€25
+amt_5000	0	€ 50	€50
+amt_7500	0	€ 75	€75
+amt_10000	0	€ 100	€100
+amt_20000	0	€ 200	€200
+amt_30000	0	€ 300	€300
+amt_40000	0	€ 400	€400
+amt_50000	0	€ 500	€500
+amt_75000	0	€ 750	€750
+amt_100000	0	€ 1.000	€1,000
+amt_500000	0	€ 5.000	€5,000
+amt_1000000	0	€ 10.000	€10,000
+amt_2500000	0	€ 25.000	€25,000
+amt_5000000	0	€ 50.000	€50,000
+amt_7500000	0	€ 75.000	€75,000
+amt_10000000	0	€ 100.000	€100,000
+amt_20000000	0	€ 200.000	€200,000
+amt_30000000	0	€ 300.000	€300,000
+amt_40000000	0	€ 400.000	€400,000
+amt_50000000	0	€ 500.000	€500,000
+amt_75000000	0	€ 750.000	€750,000
+amt_100000000	0	€ 1.000.000	€1,000,000
+amt_200	0	€ 2	€2
+amt_300	0	€ 3	€3
+amt_400	0	€ 4	€4
+amt_600	0	€ 6	€6
+amt_700	0	€ 7	€7
+amt_800	0	€ 8	€8
+amt_900	0	€ 9	€9
+amt_1100	0	€ 11	€11
+amt_1200	0	€ 12	€12
+amt_1300	0	€ 13	€13
+amt_1400	0	€ 14	€14
+amt_1500	0	€ 15	€15
+amt_1600	0	€ 16	€16
+amt_1700	0	€ 17	€17
+amt_1800	0	€ 18	€18
+amt_1900	0	€ 19	€19
+amt_2000	0	€ 20	€20
+amt_2100	0	€ 21	€21
+amt_2200	0	€ 22	€22
+amt_2300	0	€ 23	€23
+amt_2400	0	€ 24	€24
+amt_2600	0	€ 26	€26
+amt_2700	0	€ 27	€27
+amt_2800	0	€ 28	€28
+amt_2900	0	€ 29	€29
+amt_3000	0	€ 30	€30
+amt_3100	0	€ 31	€31
+amt_3200	0	€ 32	€32
+amt_3300	0	€ 33	€33
+amt_3400	0	€ 34	€34
+amt_3500	0	€ 35	€35
+amt_3600	0	€ 36	€36
+amt_3700	0	€ 37	€37
+amt_3800	0	€ 38	€38
+amt_3900	0	€ 39	€39
+amt_4000	0	€ 40	€40
+amt_4100	0	€ 41	€41
+amt_4200	0	€ 42	€42
+amt_4300	0	€ 43	€43
+amt_4400	0	€ 44	€44
+amt_4500	0	€ 45	€45
+amt_4600	0	€ 46	€46
+amt_4700	0	€ 47	€47
+amt_4800	0	€ 48	€48
+amt_4900	0	€ 49	€49
+amt_5100	0	€ 51	€51
+amt_5200	0	€ 52	€52
+amt_5300	0	€ 53	€53
+amt_5400	0	€ 54	€54
+amt_5500	0	€ 55	€55
+amt_5600	0	€ 56	€56
+amt_5700	0	€ 57	€57
+amt_5800	0	€ 58	€58
+amt_5900	0	€ 59	€59
+amt_6000	0	€ 60	€60
+amt_6100	0	€ 61	€61
+amt_6200	0	€ 62	€62
+amt_6300	0	€ 63	€63
+amt_6400	0	€ 64	€64
+amt_6500	0	€ 65	€65
+amt_6600	0	€ 66	€66
+amt_6700	0	€ 67	€67
+amt_6800	0	€ 68	€68
+amt_6900	0	€ 69	€69
+amt_7000	0	€ 70	€70
+amt_7100	0	€ 71	€71
+amt_7200	0	€ 72	€72
+amt_7300	0	€ 73	€73
+amt_7400	0	€ 74	€74
+amt_7600	0	€ 76	€76
+amt_7700	0	€ 77	€77
+amt_7800	0	€ 78	€78
+amt_7900	0	€ 79	€79
+amt_8000	0	€ 80	€80
+amt_8100	0	€ 81	€81
+amt_8200	0	€ 82	€82
+amt_8300	0	€ 83	€83
+amt_8400	0	€ 84	€84
+amt_8500	0	€ 85	€85
+amt_8600	0	€ 86	€86
+amt_8700	0	€ 87	€87
+amt_8800	0	€ 88	€88
+amt_8900	0	€ 89	€89
+amt_9000	0	€ 90	€90
+amt_9100	0	€ 91	€91
+amt_9200	0	€ 92	€92
+amt_9300	0	€ 93	€93
+amt_9400	0	€ 94	€94
+amt_9500	0	€ 95	€95
+amt_9600	0	€ 96	€96
+amt_9700	0	€ 97	€97
+amt_9800	0	€ 98	€98
+amt_9900	0	€ 99	€99
+amt_11000	0	€ 110	€110
+amt_12000	0	€ 120	€120
+amt_13000	0	€ 130	€130
+amt_14000	0	€ 140	€140
+amt_15000	0	€ 150	€150
+amt_16000	0	€ 160	€160
+amt_17000	0	€ 170	€170
+amt_18000	0	€ 180	€180
+amt_19000	0	€ 190	€190
+amt_21000	0	€ 210	€210
+amt_22000	0	€ 220	€220
+amt_23000	0	€ 230	€230
+amt_24000	0	€ 240	€240
+amt_25000	0	€ 250	€250
+amt_26000	0	€ 260	€260
+amt_27000	0	€ 270	€270
+amt_28000	0	€ 280	€280
+amt_29000	0	€ 290	€290
+amt_31000	0	€ 310	€310
+amt_32000	0	€ 320	€320
+amt_33000	0	€ 330	€330
+amt_34000	0	€ 340	€340
+amt_35000	0	€ 350	€350
+amt_36000	0	€ 360	€360
+amt_37000	0	€ 370	€370
+amt_38000	0	€ 380	€380
+amt_39000	0	€ 390	€390
+amt_41000	0	€ 410	€410
+amt_42000	0	€ 420	€420
+amt_43000	0	€ 430	€430
+amt_44000	0	€ 440	€440
+amt_45000	0	€ 450	€450
+amt_46000	0	€ 460	€460
+amt_47000	0	€ 470	€470
+amt_48000	0	€ 480	€480
+amt_49000	0	€ 490	€490
+amt_51000	0	€ 510	€510
+amt_52000	0	€ 520	€520
+amt_53000	0	€ 530	€530
+amt_54000	0	€ 540	€540
+amt_55000	0	€ 550	€550
+amt_56000	0	€ 560	€560
+amt_57000	0	€ 570	€570
+amt_58000	0	€ 580	€580
+amt_59000	0	€ 590	€590
+amt_60000	0	€ 600	€600
+amt_61000	0	€ 610	€610
+amt_62000	0	€ 620	€620
+amt_63000	0	€ 630	€630
+amt_64000	0	€ 640	€640
+amt_65000	0	€ 650	€650
+amt_66000	0	€ 660	€660
+amt_67000	0	€ 670	€670
+amt_68000	0	€ 680	€680
+amt_69000	0	€ 690	€690
+amt_70000	0	€ 700	€700
+amt_71000	0	€ 710	€710
+amt_72000	0	€ 720	€720
+amt_73000	0	€ 730	€730
+amt_74000	0	€ 740	€740
+amt_76000	0	€ 760	€760
+amt_77000	0	€ 770	€770
+amt_78000	0	€ 780	€780
+amt_79000	0	€ 790	€790
+amt_80000	0	€ 800	€800
+amt_81000	0	€ 810	€810
+amt_82000	0	€ 820	€820
+amt_83000	0	€ 830	€830
+amt_84000	0	€ 840	€840
+amt_85000	0	€ 850	€850
+amt_86000	0	€ 860	€860
+amt_87000	0	€ 870	€870
+amt_88000	0	€ 880	€880
+amt_89000	0	€ 890	€890
+amt_90000	0	€ 900	€900
+amt_91000	0	€ 910	€910
+amt_92000	0	€ 920	€920
+amt_93000	0	€ 930	€930
+amt_94000	0	€ 940	€940
+amt_95000	0	€ 950	€950
+amt_96000	0	€ 960	€960
+amt_97000	0	€ 970	€970
+amt_98000	0	€ 980	€980
+amt_99000	0	€ 990	€990
+amt_110000	0	€ 1.100	€1,100
+amt_120000	0	€ 1.200	€1,200
+amt_130000	0	€ 1.300	€1,300
+amt_140000	0	€ 1.400	€1,400
+amt_150000	0	€ 1.500	€1,500
+amt_160000	0	€ 1.600	€1,600
+amt_170000	0	€ 1.700	€1,700
+amt_180000	0	€ 1.800	€1,800
+amt_190000	0	€ 1.900	€1,900
+amt_200000	0	€ 2.000	€2,000
+amt_210000	0	€ 2.100	€2,100
+amt_220000	0	€ 2.200	€2,200
+amt_230000	0	€ 2.300	€2,300
+amt_240000	0	€ 2.400	€2,400
+amt_250000	0	€ 2.500	€2,500
+amt_260000	0	€ 2.600	€2,600
+amt_270000	0	€ 2.700	€2,700
+amt_280000	0	€ 2.800	€2,800
+amt_290000	0	€ 2.900	€2,900
+amt_300000	0	€ 3.000	€3,000
+amt_310000	0	€ 3.100	€3,100
+amt_320000	0	€ 3.200	€3,200
+amt_330000	0	€ 3.300	€3,300
+amt_340000	0	€ 3.400	€3,400
+amt_350000	0	€ 3.500	€3,500
+amt_360000	0	€ 3.600	€3,600
+amt_370000	0	€ 3.700	€3,700
+amt_380000	0	€ 3.800	€3,800
+amt_390000	0	€ 3.900	€3,900
+amt_400000	0	€ 4.000	€4,000
+amt_410000	0	€ 4.100	€4,100
+amt_420000	0	€ 4.200	€4,200
+amt_430000	0	€ 4.300	€4,300
+amt_440000	0	€ 4.400	€4,400
+amt_450000	0	€ 4.500	€4,500
+amt_460000	0	€ 4.600	€4,600
+amt_470000	0	€ 4.700	€4,700
+amt_480000	0	€ 4.800	€4,800
+amt_490000	0	€ 4.900	€4,900
+amt_510000	0	€ 5.100	€5,100
+amt_520000	0	€ 5.200	€5,200
+amt_530000	0	€ 5.300	€5,300
+amt_540000	0	€ 5.400	€5,400
+amt_550000	0	€ 5.500	€5,500
+amt_560000	0	€ 5.600	€5,600
+amt_570000	0	€ 5.700	€5,700
+amt_580000	0	€ 5.800	€5,800
+amt_590000	0	€ 5.900	€5,900
+amt_600000	0	€ 6.000	€6,000
+amt_610000	0	€ 6.100	€6,100
+amt_620000	0	€ 6.200	€6,200
+amt_630000	0	€ 6.300	€6,300
+amt_640000	0	€ 6.400	€6,400
+amt_650000	0	€ 6.500	€6,500
+amt_660000	0	€ 6.600	€6,600
+amt_670000	0	€ 6.700	€6,700
+amt_680000	0	€ 6.800	€6,800
+amt_690000	0	€ 6.900	€6,900
+amt_700000	0	€ 7.000	€7,000
+amt_710000	0	€ 7.100	€7,100
+amt_720000	0	€ 7.200	€7,200
+amt_730000	0	€ 7.300	€7,300
+amt_740000	0	€ 7.400	€7,400
+amt_750000	0	€ 7.500	€7,500
+amt_760000	0	€ 7.600	€7,600
+amt_770000	0	€ 7.700	€7,700
+amt_780000	0	€ 7.800	€7,800
+amt_790000	0	€ 7.900	€7,900
+amt_800000	0	€ 8.000	€8,000
+amt_810000	0	€ 8.100	€8,100
+amt_820000	0	€ 8.200	€8,200
+amt_830000	0	€ 8.300	€8,300
+amt_840000	0	€ 8.400	€8,400
+amt_850000	0	€ 8.500	€8,500
+amt_860000	0	€ 8.600	€8,600
+amt_870000	0	€ 8.700	€8,700
+amt_880000	0	€ 8.800	€8,800
+amt_890000	0	€ 8.900	€8,900
+amt_900000	0	€ 9.000	€9,000
+amt_910000	0	€ 9.100	€9,100
+amt_920000	0	€ 9.200	€9,200
+amt_930000	0	€ 9.300	€9,300
+amt_940000	0	€ 9.400	€9,400
+amt_950000	0	€ 9.500	€9,500
+amt_960000	0	€ 9.600	€9,600
+amt_970000	0	€ 9.700	€9,700
+amt_980000	0	€ 9.800	€9,800
+amt_990000	0	€ 9.900	€9,900
+amt_1100000	0	€ 11.000	€11,000
+amt_1200000	0	€ 12.000	€12,000
+amt_1300000	0	€ 13.000	€13,000
+amt_1400000	0	€ 14.000	€14,000
+amt_1500000	0	€ 15.000	€15,000
+amt_1600000	0	€ 16.000	€16,000
+amt_1700000	0	€ 17.000	€17,000
+amt_1800000	0	€ 18.000	€18,000
+amt_1900000	0	€ 19.000	€19,000
+amt_2000000	0	€ 20.000	€20,000
+amt_2100000	0	€ 21.000	€21,000
+amt_2200000	0	€ 22.000	€22,000
+amt_2300000	0	€ 23.000	€23,000
+amt_2400000	0	€ 24.000	€24,000
+amt_2600000	0	€ 26.000	€26,000
+amt_2700000	0	€ 27.000	€27,000
+amt_2800000	0	€ 28.000	€28,000
+amt_2900000	0	€ 29.000	€29,000
+amt_3000000	0	€ 30.000	€30,000
+amt_3100000	0	€ 31.000	€31,000
+amt_3200000	0	€ 32.000	€32,000
+amt_3300000	0	€ 33.000	€33,000
+amt_3400000	0	€ 34.000	€34,000
+amt_3500000	0	€ 35.000	€35,000
+amt_3600000	0	€ 36.000	€36,000
+amt_3700000	0	€ 37.000	€37,000
+amt_3800000	0	€ 38.000	€38,000
+amt_3900000	0	€ 39.000	€39,000
+amt_4000000	0	€ 40.000	€40,000
+amt_4100000	0	€ 41.000	€41,000
+amt_4200000	0	€ 42.000	€42,000
+amt_4300000	0	€ 43.000	€43,000
+amt_4400000	0	€ 44.000	€44,000
+amt_4500000	0	€ 45.000	€45,000
+amt_4600000	0	€ 46.000	€46,000
+amt_4700000	0	€ 47.000	€47,000
+amt_4800000	0	€ 48.000	€48,000
+amt_4900000	0	€ 49.000	€49,000
+amt_5100000	0	€ 51.000	€51,000
+amt_5200000	0	€ 52.000	€52,000
+amt_5300000	0	€ 53.000	€53,000
+amt_5400000	0	€ 54.000	€54,000
+amt_5500000	0	€ 55.000	€55,000
+amt_5600000	0	€ 56.000	€56,000
+amt_5700000	0	€ 57.000	€57,000
+amt_5800000	0	€ 58.000	€58,000
+amt_5900000	0	€ 59.000	€59,000
+amt_6000000	0	€ 60.000	€60,000
+amt_6100000	0	€ 61.000	€61,000
+amt_6200000	0	€ 62.000	€62,000
+amt_6300000	0	€ 63.000	€63,000
+amt_6400000	0	€ 64.000	€64,000
+amt_6500000	0	€ 65.000	€65,000
+amt_6600000	0	€ 66.000	€66,000
+amt_6700000	0	€ 67.000	€67,000
+amt_6800000	0	€ 68.000	€68,000
+amt_6900000	0	€ 69.000	€69,000
+amt_7000000	0	€ 70.000	€70,000
+amt_7100000	0	€ 71.000	€71,000
+amt_7200000	0	€ 72.000	€72,000
+amt_7300000	0	€ 73.000	€73,000
+amt_7400000	0	€ 74.000	€74,000
+amt_7600000	0	€ 76.000	€76,000
+amt_7700000	0	€ 77.000	€77,000
+amt_7800000	0	€ 78.000	€78,000
+amt_7900000	0	€ 79.000	€79,000
+amt_8000000	0	€ 80.000	€80,000
+amt_8100000	0	€ 81.000	€81,000
+amt_8200000	0	€ 82.000	€82,000
+amt_8300000	0	€ 83.000	€83,000
+amt_8400000	0	€ 84.000	€84,000
+amt_8500000	0	€ 85.000	€85,000
+amt_8600000	0	€ 86.000	€86,000
+amt_8700000	0	€ 87.000	€87,000
+amt_8800000	0	€ 88.000	€88,000
+amt_8900000	0	€ 89.000	€89,000
+amt_9000000	0	€ 90.000	€90,000
+amt_9100000	0	€ 91.000	€91,000
+amt_9200000	0	€ 92.000	€92,000
+amt_9300000	0	€ 93.000	€93,000
+amt_9400000	0	€ 94.000	€94,000
+amt_9500000	0	€ 95.000	€95,000
+amt_9600000	0	€ 96.000	€96,000
+amt_9700000	0	€ 97.000	€97,000
+amt_9800000	0	€ 98.000	€98,000
+amt_9900000	0	€ 99.000	€99,000
+amt_11000000	0	€ 110.000	€110,000
+amt_12000000	0	€ 120.000	€120,000
+amt_13000000	0	€ 130.000	€130,000
+amt_14000000	0	€ 140.000	€140,000
+amt_15000000	0	€ 150.000	€150,000
+amt_16000000	0	€ 160.000	€160,000
+amt_17000000	0	€ 170.000	€170,000
+amt_18000000	0	€ 180.000	€180,000
+amt_19000000	0	€ 190.000	€190,000
+amt_21000000	0	€ 210.000	€210,000
+amt_22000000	0	€ 220.000	€220,000
+amt_23000000	0	€ 230.000	€230,000
+amt_24000000	0	€ 240.000	€240,000
+amt_25000000	0	€ 250.000	€250,000
+amt_26000000	0	€ 260.000	€260,000
+amt_27000000	0	€ 270.000	€270,000
+amt_28000000	0	€ 280.000	€280,000
+amt_29000000	0	€ 290.000	€290,000
+amt_31000000	0	€ 310.000	€310,000
+amt_32000000	0	€ 320.000	€320,000
+amt_33000000	0	€ 330.000	€330,000
+amt_34000000	0	€ 340.000	€340,000
+amt_35000000	0	€ 350.000	€350,000
+amt_36000000	0	€ 360.000	€360,000
+amt_37000000	0	€ 370.000	€370,000
+amt_38000000	0	€ 380.000	€380,000
+amt_39000000	0	€ 390.000	€390,000
+amt_41000000	0	€ 410.000	€410,000
+amt_42000000	0	€ 420.000	€420,000
+amt_43000000	0	€ 430.000	€430,000
+amt_44000000	0	€ 440.000	€440,000
+amt_45000000	0	€ 450.000	€450,000
+amt_46000000	0	€ 460.000	€460,000
+amt_47000000	0	€ 470.000	€470,000
+amt_48000000	0	€ 480.000	€480,000
+amt_49000000	0	€ 490.000	€490,000
+amt_51000000	0	€ 510.000	€510,000
+amt_52000000	0	€ 520.000	€520,000
+amt_53000000	0	€ 530.000	€530,000
+amt_54000000	0	€ 540.000	€540,000
+amt_55000000	0	€ 550.000	€550,000
+amt_56000000	0	€ 560.000	€560,000
+amt_57000000	0	€ 570.000	€570,000
+amt_58000000	0	€ 580.000	€580,000
+amt_59000000	0	€ 590.000	€590,000
+amt_60000000	0	€ 600.000	€600,000
+amt_61000000	0	€ 610.000	€610,000
+amt_62000000	0	€ 620.000	€620,000
+amt_63000000	0	€ 630.000	€630,000
+amt_64000000	0	€ 640.000	€640,000
+amt_65000000	0	€ 650.000	€650,000
+amt_66000000	0	€ 660.000	€660,000
+amt_67000000	0	€ 670.000	€670,000
+amt_68000000	0	€ 680.000	€680,000
+amt_69000000	0	€ 690.000	€690,000
+amt_70000000	0	€ 700.000	€700,000
+amt_71000000	0	€ 710.000	€710,000
+amt_72000000	0	€ 720.000	€720,000
+amt_73000000	0	€ 730.000	€730,000
+amt_74000000	0	€ 740.000	€740,000
+amt_76000000	0	€ 760.000	€760,000
+amt_77000000	0	€ 770.000	€770,000
+amt_78000000	0	€ 780.000	€780,000
+amt_79000000	0	€ 790.000	€790,000
+amt_80000000	0	€ 800.000	€800,000
+amt_81000000	0	€ 810.000	€810,000
+amt_82000000	0	€ 820.000	€820,000
+amt_83000000	0	€ 830.000	€830,000
+amt_84000000	0	€ 840.000	€840,000
+amt_85000000	0	€ 850.000	€850,000
+amt_86000000	0	€ 860.000	€860,000
+amt_87000000	0	€ 870.000	€870,000
+amt_88000000	0	€ 880.000	€880,000
+amt_89000000	0	€ 890.000	€890,000
+amt_90000000	0	€ 900.000	€900,000
+amt_91000000	0	€ 910.000	€910,000
+amt_92000000	0	€ 920.000	€920,000
+amt_93000000	0	€ 930.000	€930,000
+amt_94000000	0	€ 940.000	€940,000
+amt_95000000	0	€ 950.000	€950,000
+amt_96000000	0	€ 960.000	€960,000
+amt_97000000	0	€ 970.000	€970,000
+amt_98000000	0	€ 980.000	€980,000
+amt_99000000	0	€ 990.000	€990,000
